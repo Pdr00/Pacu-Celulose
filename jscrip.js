@@ -10,7 +10,7 @@ function alf(){
 }
 
 function pacu(){
-    location.href = 'senac-canva1.html'
+    location.href = 'index.html'
 }
 
 function palito(){
